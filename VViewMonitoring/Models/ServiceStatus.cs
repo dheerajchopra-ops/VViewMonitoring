@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace VViewMonitoring.Models
+﻿namespace VViewMonitoring.Models
 {
     public class ServiceStatus
     {
